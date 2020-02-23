@@ -8,13 +8,13 @@ window.others = {
         "avatar": "avatars/others/george.png",
         "username": "Georgeee",
         "text": "I'm a 19 year old dude from Wisconsin (commence making fun of my accent). I love music and lately you can catch me listening to nothing but Joy Division, Echo & the bunnymen, and the smiths. Besides music I like learning languages, psychology, drawing, and writing.",
-        "likes": [45000*0.5, 50000*0.5, 110000*0.5, 150000*0.5] //4
+        "likes": [22500, 25000, 55000, 75000] //4
       },
       {
         "avatar": "avatars/others/sarah.png",
         "username": "Sarah",
         "text": "Let me introduce myself. I’m Sarah, married, and mother of two wonderful (grown up) children. My career has been a bit peculiar. Starting off as a graduate historian, I switched to an entirely different discipline: occupational assessor trying to help young people with disabilities to get a job. I’ve just retired and started spending more time on my hobbies, such as singing, reading, and playing volleyball.",
-        "likes": [12000*0.5, 14000*0.5,15000*0.5,35000*0.5,80000*0.5,100000*0.5,110000*0.5,150000*0.5,20000*0.5] //9
+        "likes": [6000, 7000, 7500, 17500, 40000, 50000, 55000, 75000, 10000] //9
       },
       {
         "avatar": "avatars/others/john.png",
