@@ -20,7 +20,7 @@ window.others = {
         "avatar": "avatars/others/john.png",
         "username": "John",
         "text": "Hi there, I’m 57 years old, married, with two kids. I’ve been a computer programmer in the states for about 30 years, but don’t worry: I don’t have the dusty haircut, oversized buttoned shirt and nerdie big frame glasses. Looking forward to working with you all. Cheers, John",
-		"likes": [20000, 21000] //2
+		"likes": [6000, 10000, 20000, 21000] //2
       },
       {
         "avatar": "avatars/others/anca.png",
@@ -38,13 +38,13 @@ window.others = {
         "avatar": "avatars/others/mary.png",
         "username": "Mary",
         "text": "My name is Mary and I am 49 years old. I have a husband and 2 grown sons. My family and I lived in different countries. Our sons attended international schools wherever we went and since moving to China, I found work at those schools as well. Besides roaming around the world, I like playing games. Board games, cards, black jack or poker, mah jong, or silly games on Facebook, jig saws, basically anything",
-        "likes": [20000, 25000, 95000] //3
+        "likes": [15000, 20000, 22500, 25000, 95000] //3
       },
       {
         "avatar": "avatars/others/lauren.png",
         "username": "Lauren",
         "text": "I’m Lauren, I love to hang out with friends and go shopping. Just doing some online studies here!",
-        "likes": [12000, 38000] //1
+        "likes": [6000, 9000, 12000, 38000] //1
       },
           {
         "avatar": "avatars/others/kim.png",
@@ -68,7 +68,7 @@ window.others = {
         "avatar": "avatars/others/jane.png",
         "username": "Jane",
         "text": "Dear all, my name is Jane and I will soon have an important interview. This is all I can think about these days. I hope you're doing well",
-        "likes": [10000, 50000] //6
+        "likes": [10000, 20000, 25000, 30000, 50000] //6
       },
 
     ]
