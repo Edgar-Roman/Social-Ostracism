@@ -27,6 +27,7 @@ window.others = {
         "username": "AncaD",
         "text": "I am a Computer Science student, interested in Natural Language processing. Also a lover of loose leaf tea and a Semantic Web enthusiast. I’m curious about what this task is about.",
         "likes": [10000, 12000, 40000, 80000, 120000]
+      },
       {
         "avatar": "avatars/others/niki.png",
         "username": "Nick",
